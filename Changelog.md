@@ -3,7 +3,8 @@
 - Moved all localization files into a new Languages directory
 - Added new localized strings
 - Updated comments
-- Incremented project version to 105.
+- Incremented project version to 105
+- Imported project to unfork from original repo. 
 
 ### 2.0.3-95 - Add uk.lproj
 
