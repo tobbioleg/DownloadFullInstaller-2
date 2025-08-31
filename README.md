@@ -47,25 +47,22 @@ Since the Big Sur macOS installer application contains a single file larger than
 
 ### Questions
 
-#### Is this different than the fetch-installer-pkg script?
-
-Not really, other than it is a UI app and written in Swift and SwiftUI instead of a command line script written in python. I used this as a project to learn more about SwiftUI.
-
 #### Can this download older versions of the macOS installer application?
 
-No. Apple only provides installer pkgs for Big Sur and later. Earlier versions of the Big Sur installer are removed regularly.
+No. Apple only provides installer PKGs for Big Sur and later. Earlier versions of the Big Sur installer are removed regularly.
 
 #### Will you update this so it can download older versions?
 
 No.
 
-#### How is this different than `softwareupdate` or `installinstallmacOS.py`
+#### How is this different from other command tools?
 
 As far as I can tell, this downloads the same pkg as `softwareupdate --fetch-full-installer` and `installinstallmacOS.py`.
 
 The difference is that the other tools then immediately perform the installation so that you get the installer application in the `/Applications` folder. This tool just downloads the pkg, so you can use it in your management system, archive the installer pkg, or manually run the installation.
 
-#### Skip sleep while downloading the installer (obsolete)
+<!-- Commented as obsolete
+#### Skip sleep while downloading the installer
 
 > **Note**: In August 2025, this has been superseded by Swift code integrated into the app.
 
@@ -84,8 +81,9 @@ Download Full Installer does not prevent the system from going to sleep while an
 #stop with Ctrl + C
 /Users/yo > caffeinate -w 2233
 ```
+-->
 
 ### Credit
 
 - Both [fetch-installer-pkg](https://github.com/scriptingosx/fetch-installer-pkg) and this application are based on [Greg Neagle's installinstallmacos.py](https://github.com/munki/macadmin-scripts/blob/main/installinstallmacos.py) script.
-- Thanks to [matxpa](https://github.com/matxpa) for so many improvements introduced in version 2.0.
+- Thanks to [matxpa](https://github.com/matxpa) for so many improvements in version 2.0.
