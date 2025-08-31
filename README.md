@@ -12,7 +12,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-43-00cd00) -->
 
 **Note**: As of June 2025, [DownloadFullInstaller](https://github.com/scriptingosx/DownloadFullInstaller) by <em>scriptingosx</em> (no movement in more than 3 years) has been archived by the developer. So, original repository will not be updated anymore.<br>
-This DownloadFullInstaller repo is the standalone (<em>unforked</em>) version. I'll keep my repo active and up to date as long as it is useful to other users.
+This DownloadFullInstaller repo is a standalone (<em>unforked</em>) version. I'll keep my repo active and up to date as long as it is useful to other users.
 
 ---
 
