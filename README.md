@@ -12,13 +12,13 @@
 ![Downloads](https://img.shields.io/badge/Downloads-43-00cd00) -->
 
 **Note**: As of June 2025, [DownloadFullInstaller](https://github.com/scriptingosx/DownloadFullInstaller) by <em>scriptingosx</em> (no movement in more than 3 years) has been archived by the developer. So, original repository will not be updated anymore.<br>
-This DownloadFullInstaller repo is a standalone (<em>not forked</em>) version. I'll keep my repo active and up to date as long as it is useful to other users.
+This DownloadFullInstaller-2 repo is a standalone (<em>not forked</em>) version. I'll keep my repo active and up to date as long as it is useful to other users.
 
 ---
 
-<img src="DownloadFullInstaller-2.png" width="560px">
+<img src="Images/DownloadFullInstaller.png" width="560px">
 
-This is a Swift UI implementation of my [fetch-installer-pkg](https://github.com/scriptingosx/fetch-installer-pkg) script. It will list the full macOS Big Sur (and later) installer pkgs available for download in Apple's software update catalogs.
+This is a Swift UI implementation of the [fetch-installer-pkg](https://github.com/scriptingosx/fetch-installer-pkg) script. It will list the full macOS Big Sur (and later) installer pkgs available for download in Apple's software update catalogs.
 
 You can then choose to download one of them.
 
