@@ -14,8 +14,8 @@
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/perez987/DownloadFullInstaller)
 ![Downloads](https://img.shields.io/badge/Downloads-43-00cd00) -->
 
-**Note**: As of June 2025, the original repository (no movement in the last 3 years) has been archived by the developer. So, no more changes will be made and it will remain as is.<br>
-DownloadFullInstaller-2 is the standalone (unforked) version of DownloadFullInstaller. I'll keep my repo active and up to date as long as it is useful to other users.
+**Note**: As of June 2025, [DownloadFullInstaller](https://github.com/scriptingosx/DownloadFullInstaller) by scriptingosx (no movement in the last 3 years) has been archived by the developer. So, no more changes will be made to the original repository and it will remain as is.<br>
+DownloadFullInstaller-2 is the standalone (*unforked*) version of DownloadFullInstaller. I'll keep my repo active and up to date as long as it is useful to other users.
 
 ---
 
