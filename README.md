@@ -83,7 +83,7 @@ Download Full Installer does not prevent the system from going to sleep while an
 ```
 -->
 
-### Credit
+### Credits
 
 - Both [fetch-installer-pkg](https://github.com/scriptingosx/fetch-installer-pkg) and this application are based on [Greg Neagle's installinstallmacos.py](https://github.com/munki/macadmin-scripts/blob/main/installinstallmacos.py) script.
 - Thanks to [matxpa](https://github.com/matxpa) for so many improvements in version 2.0.
